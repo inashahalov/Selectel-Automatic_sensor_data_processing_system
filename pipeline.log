@@ -1,0 +1,38 @@
+2025-07-23 11:59:13,928 - INFO - [+] Начало отслеживания папки
+2025-07-23 12:13:11,756 - INFO - [+] Начало отслеживания папки
+2025-07-23 12:15:29,546 - INFO - [+] Начало отслеживания папки
+2025-07-23 12:16:29,704 - INFO - [+] Новый файл: /home/f/Документы/Selectel/source/import_ou_csv.csv
+2025-07-23 12:16:29,710 - INFO - [+] Файл /home/f/Документы/Selectel/source/import_ou_csv.csv прочитан
+2025-07-23 12:16:29,711 - INFO - [+] Файл /home/f/Документы/Selectel/source/import_ou_csv.csv отфильтрован
+2025-07-23 12:16:29,713 - INFO - [+] Файл /home/f/Документы/Selectel/source/import_ou_csv.csv сохранен во временный файл /home/f/Документы/Selectel/temp/import_ou_csv.csv
+2025-07-23 12:16:30,543 - INFO - [+] Файл processed/import_ou_csv.csv успешно загружен
+2025-07-23 12:16:30,543 - INFO - [+] Файл /home/f/Документы/Selectel/temp/import_ou_csv.csv загружен в S3 как processed/import_ou_csv.csv
+2025-07-23 12:16:30,544 - INFO - [+] Оригинальный файл /home/f/Документы/Selectel/source/import_ou_csv.csv перемещен в архив /home/f/Документы/Selectel/archive/import_ou_csv.csv
+2025-07-23 12:16:30,544 - INFO - [+] Временный файл /home/f/Документы/Selectel/temp/import_ou_csv.csv удален
+2025-07-23 12:20:56,512 - INFO - [+] Начало отслеживания папки
+2025-07-23 12:21:23,235 - INFO - [+] Новый файл: /home/f/Документы/Selectel/source/import_ou_csv.csv
+2025-07-23 12:21:23,239 - INFO - [+] Файл /home/f/Документы/Selectel/source/import_ou_csv.csv прочитан
+2025-07-23 12:21:23,242 - INFO - [+] Файл /home/f/Документы/Selectel/source/import_ou_csv.csv отфильтрован
+2025-07-23 12:21:23,243 - INFO - [+] Файл /home/f/Документы/Selectel/source/import_ou_csv.csv сохранен во временный файл /home/f/Документы/Selectel/temp/import_ou_csv.csv
+2025-07-23 12:21:23,672 - INFO - [+] Файл processed/import_ou_csv.csv успешно загружен
+2025-07-23 12:21:23,673 - INFO - [+] Файл /home/f/Документы/Selectel/temp/import_ou_csv.csv загружен в S3 как processed/import_ou_csv.csv
+2025-07-23 12:21:23,674 - INFO - [+] Оригинальный файл /home/f/Документы/Selectel/source/import_ou_csv.csv перемещен в архив /home/f/Документы/Selectel/archive/import_ou_csv.csv
+2025-07-23 12:21:23,674 - INFO - [+] Временный файл /home/f/Документы/Selectel/temp/import_ou_csv.csv удален
+2025-07-23 12:25:47,657 - INFO - [+] Новый файл: /home/f/Документы/Selectel/source/import_contact_csv.csv
+2025-07-23 12:25:47,660 - INFO - [+] Файл /home/f/Документы/Selectel/source/import_contact_csv.csv прочитан
+2025-07-23 12:25:47,661 - INFO - [+] Файл /home/f/Документы/Selectel/source/import_contact_csv.csv отфильтрован
+2025-07-23 12:25:47,663 - INFO - [+] Файл /home/f/Документы/Selectel/source/import_contact_csv.csv сохранен во временный файл /home/f/Документы/Selectel/temp/import_contact_csv.csv
+2025-07-23 12:25:48,560 - INFO - [+] Файл processed/import_contact_csv.csv успешно загружен
+2025-07-23 12:25:48,561 - INFO - [+] Файл /home/f/Документы/Selectel/temp/import_contact_csv.csv загружен в S3 как processed/import_contact_csv.csv
+2025-07-23 12:25:48,561 - INFO - [+] Оригинальный файл /home/f/Документы/Selectel/source/import_contact_csv.csv перемещен в архив /home/f/Документы/Selectel/archive/import_contact_csv.csv
+2025-07-23 12:25:48,561 - INFO - [+] Временный файл /home/f/Документы/Selectel/temp/import_contact_csv.csv удален
+2025-07-23 12:25:52,871 - INFO - [+] Новый файл: /home/f/Документы/Selectel/source/import_company_csv.csv
+2025-07-23 12:25:52,874 - INFO - [+] Файл /home/f/Документы/Selectel/source/import_company_csv.csv прочитан
+2025-07-23 12:25:52,885 - INFO - [+] Файл /home/f/Документы/Selectel/source/import_company_csv.csv отфильтрован
+2025-07-23 12:25:52,886 - INFO - [+] Файл /home/f/Документы/Selectel/source/import_company_csv.csv сохранен во временный файл /home/f/Документы/Selectel/temp/import_company_csv.csv
+2025-07-23 12:25:53,008 - INFO - [+] Файл processed/import_company_csv.csv успешно загружен
+2025-07-23 12:25:53,009 - INFO - [+] Файл /home/f/Документы/Selectel/temp/import_company_csv.csv загружен в S3 как processed/import_company_csv.csv
+2025-07-23 12:25:53,009 - INFO - [+] Оригинальный файл /home/f/Документы/Selectel/source/import_company_csv.csv перемещен в архив /home/f/Документы/Selectel/archive/import_company_csv.csv
+2025-07-23 12:25:53,009 - INFO - [+] Временный файл /home/f/Документы/Selectel/temp/import_company_csv.csv удален
+2025-07-23 12:50:29,969 - INFO - [+] Начало отслеживания папки
+2025-07-23 12:50:38,845 - INFO - [+] Начало отслеживания папки
